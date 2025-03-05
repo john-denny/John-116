@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @John-116
-- 📫 How to reach me - Discord JOHN#5421
+- 👋 Hi, I’m John Denny
+- johndenny.dev
